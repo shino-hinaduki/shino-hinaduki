@@ -1,5 +1,5 @@
-# Biography
+# Work
 
-* Embedded System Engineering
-* Semiconductor Failure Analysis Engineering
-* Semiconductor Reliability Engineering
+* Embedded System
+* Semiconductor Failure Analysis
+* Semiconductor Reliability
